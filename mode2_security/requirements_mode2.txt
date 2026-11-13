@@ -1,0 +1,5 @@
+deepface
+opencv-python
+playsound==1.2.2
+numpy
+tf-keras

@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+runs/
+.ipynb_checkpoints/
+.vscode/
+RescueVision-YOLOv8/
+
+mode2_security/reference_faces/

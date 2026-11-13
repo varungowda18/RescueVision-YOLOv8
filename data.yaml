@@ -1,0 +1,15 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names:
+  0: victim
+
+
+roboflow:
+  workspace: varun-gowda-lpaoc
+  project: disaster-human-detection-hztqy
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/varun-gowda-lpaoc/disaster-human-detection-hztqy/1*
